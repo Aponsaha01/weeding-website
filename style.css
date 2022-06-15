@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    width: 100px;
+    height: 80px;
+}
+.icon{
+font-size: 90px;
+text-align: center;
+}
+.icon-text{
+    font-family: 'Roboto', sans-serif;
+}
+.headding{
+    text-align: center;
+    font-family: 'Ms Madi', cursive;
+
+}
+.headding1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.blog{
+    width: 360px;
+    height: 280px;
+}
+.headding2{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
